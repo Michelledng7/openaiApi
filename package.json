@@ -1,0 +1,17 @@
+{
+  "name": "gpt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node script.js"
+  },
+  "keywords": [],
+  "author": "MD",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "openai": "^4.15.4"
+  }
+}
